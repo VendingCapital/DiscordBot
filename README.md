@@ -1,6 +1,6 @@
 # DiscordBot
 
-Todo:
+To do:
 
 - Complete Profile command
 - Complete moderation system 
