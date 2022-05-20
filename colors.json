@@ -1,0 +1,8 @@
+{
+    "default": "#5865F2",
+    "success": "#57F287",
+    "neutral": "#FEE75C",
+    "error": "#ED4245",
+    "black": "#000000",
+    "warning": ""
+}

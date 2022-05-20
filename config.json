@@ -1,0 +1,5 @@
+{
+    "token": "OTQxMDQ5MzA2NDA2ODUwNjIw.YgQSdg.g0xjNHGKF_LGmGcfSIgk2n-WWe4",
+    "prefix": "!",
+    "mongooseConnectionString": "mongodb://TKDKid1000:Rhe123123@database.tkdkid1000.net:27017/vending-capital?authSource=admin&readPreference=primary&directConnection=true&ssl=false"
+}
